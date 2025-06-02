@@ -4,35 +4,35 @@
 		"ref": "/#about"
 	},
 	{
-		"title": "Venue",
+		"title": "Committees",
 		"ref": "",
 		"subMenu": [
 			{
-				"title": "Singapore",
+				"title": "IP",
 				"ref": "/venue/Singapore"
 			},
 			{
-				"title": "Munich, Germany",
+				"title": "AIPPM",
 				"ref": "/venue/Munich"
 			},
 			{
-				"title": "Lagos, Nigeria",
+				"title": "TNSM",
 				"ref": "/venue/Lagos"
 			},
 			{
-				"title": "London, UK",
+				"title": "UNSC",
 				"ref": "/venue/London"
 			},
 			{
-			"title": "Bangalore, India",
+			"title": "UNGA",
 			"ref": "/venue/Bangalore"
 			},
 			{
-				"title": "Online", 
+				"title": "ECOSOC", 
 				"ref": "/venue/Online"
 			},
 			{
-				"title": "Paris, France",
+				"title": "UNHRC",
 				"ref": "/venue/Paris"
 			}
 			

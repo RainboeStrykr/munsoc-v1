@@ -15,12 +15,11 @@ function Sponsors({ eventSponsors, financialSponsor }) {
       <div className="py-[80px] flex flex-col items-center">
         <div className="max-w-3xl sm:w-full">
           <Paragraph className="mt-[40px]" textColor="text-white">
-            Elevating the future of APIs. Our valued partners and sponsors play
-            a pivotal role in bringing our vision to life. With their support,
-            we orchestrate an unforgettable celebration.
+            We proudly present the sponsors of SRM MUN 2025—visionaries who empower dialogue, diplomacy, and dynamic youth leadership.
+            Their support fuels our mission, turning meaningful discussions into impactful actions on the global stage.
           </Paragraph>
         </div>
-        <Heading typeStyle='heading-md' className='text-gray-800 mt-10 sm:text-2xl sm:mt-5'>Event and Host Sponsor</Heading>
+        <Heading typeStyle='heading-md' className='text-gray-800 mt-10 sm:text-2xl sm:mt-5'>Event Sponsors</Heading>
         <div className="flex justify-center  w-[650px] sm:w-full flex-col  items-center">
           {eventSponsors &&
             eventSponsors.map((sponsor) => (
