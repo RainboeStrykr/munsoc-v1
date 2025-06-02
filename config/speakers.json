@@ -123,25 +123,129 @@
 	{
 		"city": "London",
 		"location": "London, UK",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Azeez Elegbede",
+			"title": "Developer Advocate at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Azeez.webp"
+		},
+		{
+			"name": "Thulisile Sibanda",
+			"title": "Senior Community Manager at AsyncAPI Initiative",
+			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
+		},
+		{
+			"name": "Prince Onyeanuna",
+			"title": "Technical Writer at Pi Squared",
+			"img": "/img/speaker-images/lagos/Prince.webp"
+		},
+		{
+			"name": "Aishat Muibudeen",
+			"title": "Lead Design Maintainer at AsyncAPI Initiative",
+			"img": "/img/speaker-images/online-conf/Maya.webp"
+		},
+		{
+			"name": "Ezinne Anne Emilia",
+			"title": "Documentation Mentee at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Ezinne.webp"
+		}	
+	],
 		"agenda": null
 	},
 	{
 		"city": "Bangalore",
 		"location": "Bangalore, India",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Azeez Elegbede",
+			"title": "Developer Advocate at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Azeez.webp"
+		},
+		{
+			"name": "Thulisile Sibanda",
+			"title": "Senior Community Manager at AsyncAPI Initiative",
+			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
+		},
+		{
+			"name": "Prince Onyeanuna",
+			"title": "Technical Writer at Pi Squared",
+			"img": "/img/speaker-images/lagos/Prince.webp"
+		},
+		{
+			"name": "Aishat Muibudeen",
+			"title": "Lead Design Maintainer at AsyncAPI Initiative",
+			"img": "/img/speaker-images/online-conf/Maya.webp"
+		},
+		{
+			"name": "Ezinne Anne Emilia",
+			"title": "Documentation Mentee at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Ezinne.webp"
+		}
+	],
 		"agenda": null
 	},
 	{
 		"city": "Online",
 		"location": "AsyncAPI YouTube Channel",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Azeez Elegbede",
+			"title": "Developer Advocate at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Azeez.webp"
+		},
+		{
+			"name": "Thulisile Sibanda",
+			"title": "Senior Community Manager at AsyncAPI Initiative",
+			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
+		},
+		{
+			"name": "Prince Onyeanuna",
+			"title": "Technical Writer at Pi Squared",
+			"img": "/img/speaker-images/lagos/Prince.webp"
+		},
+		{
+			"name": "Aishat Muibudeen",
+			"title": "Lead Design Maintainer at AsyncAPI Initiative",
+			"img": "/img/speaker-images/online-conf/Maya.webp"
+		},
+		{
+			"name": "Ezinne Anne Emilia",
+			"title": "Documentation Mentee at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Ezinne.webp"
+		}
+	],
 		"agenda": null
 	},
 	{
 		"city": "Paris",
 		"location": "Paris, France",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Azeez Elegbede",
+			"title": "Developer Advocate at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Azeez.webp"
+		},
+		{
+			"name": "Thulisile Sibanda",
+			"title": "Senior Community Manager at AsyncAPI Initiative",
+			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
+		},
+		{
+			"name": "Prince Onyeanuna",
+			"title": "Technical Writer at Pi Squared",
+			"img": "/img/speaker-images/lagos/Prince.webp"
+		},
+		{
+			"name": "Aishat Muibudeen",
+			"title": "Lead Design Maintainer at AsyncAPI Initiative",
+			"img": "/img/speaker-images/online-conf/Maya.webp"
+		},
+		{
+			"name": "Ezinne Anne Emilia",
+			"title": "Documentation Mentee at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Ezinne.webp"
+		}
+],
 		"agenda": null
 	}
 
