@@ -28,7 +28,7 @@ function Header() {
                   level="h1"
                   typeStyle="heading"
                 >
-                  AsyncAPI Conference 2025
+                  SRM MUN 2025
                 </Heading>
               </div>
               <div className="w-[624px] sm:w-full text-center">
