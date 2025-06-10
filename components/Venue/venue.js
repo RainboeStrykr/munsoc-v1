@@ -43,7 +43,7 @@ const eventStatus = getEventStatus(city.date);
                 window.open(city.map, '_blank', 'noopener');
               }}
               className='w-8 h-8 bg-white rounded-xl flex items-center justify-center ml-auto hover:bg-gray-400 transition-colors duration-300'>
-              <Image src='/img/mapIcon.svg' alt='Map Icon' width={24} height={24} />
+              <Image src='/img/info-icon.svg' alt='Icon' width={24} height={24} />
             </button>
           </div>
 
@@ -60,9 +60,7 @@ const eventStatus = getEventStatus(city.date);
               <div className="border border-gray-300 rounded-lg py-1 px-2 text-sm sm:text-xs flex-1 text-center truncate">
                 {city.date}
               </div>
-              <div className="text-sm sm:text-xs text-right ml-2 whitespace-nowrap">
-                {eventStatus}
-              </div>
+              
             </div>
           </div>
         </div>
