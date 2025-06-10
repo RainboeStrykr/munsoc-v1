@@ -54,7 +54,7 @@ function Venue({ city }) {
 							{city.name} {city.country}
 						</Heading> :
 						<Heading className={textColor}>
-							{city.name}, {city.country}
+							{city.country}
 						</Heading>}
 						
 						<Paragraph className='mt-[24px]' textColor={textColor}>{city.description}</Paragraph>
