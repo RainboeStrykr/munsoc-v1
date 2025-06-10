@@ -43,7 +43,7 @@
 		{
 			"name": "Sai Eshwar",
 			"title": "Deputy Moderator",
-			"img": "/eb-pics/sai-eshwar"
+			"img": "/eb-pics/sai-eshwar.png"
 		},
 		{
 			"name": "Chitranjan Mishra",
@@ -60,17 +60,17 @@
 		{
 			"name": "Ravi Vatsan",
 			"title": "Chairperson",
-			"img": "/img/speaker-images/lagos/Azeez.webp"
+			"img": "/eb-pics/ravi-vatsan.png"
 		},
 		{
 			"name": "M. Chellakumar",
 			"title": "Vice Chairperson",
-			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
+			"img": "/eb-pics/chellakkumar.png"
 		},
 		{
 			"name": "Sujith Kumar",
 			"title": "Director",
-			"img": "/img/speaker-images/lagos/Prince.webp"
+			"img": "/eb-pics/sujith.png"
 		}
 	],
 		"agenda": null
@@ -82,17 +82,17 @@
 		{
 			"name": "Ayush R",
 			"title": "Co-President",
-			"img": "/img/speaker-images/paris/Annegret.webp"
+			"img": "/eb-pics/ayushr.png"
 		},
 		{
 			"name": "Fazil Razak",
 			"title": "Co-President",
-			"img": "/img/speaker-images/paris/Naresh.webp"
+			"img": "/eb-pics/fazil-razak.png"
 		},
 		{
 			"name": "Jahnavi Dhir",
 			"title": "Director",
-			"img": "/img/speaker-images/london/Eduardo.webp"
+			"img": "/eb-pics/jahnavi-dhir.png"
 		}
 		],
 		"agenda": null
@@ -104,17 +104,17 @@
 		{
 			"name": "Niresh Swamy",
 			"title": "Chairperson",
-			"img": "/img/speaker-images/paris/Annegret.webp"
+			"img": "/eb-pics/niresh-swamy.png"
 		},
 		{
 			"name": "Aritra Kadak",
 			"title": "Vice Chairperson",
-			"img": "/img/speaker-images/paris/Naresh.webp"
+			"img": "/eb-pics/aritra-kadak.png"
 		},
 		{
 			"name": "Ansha Tripathi",
 			"title": "Director",
-			"img": "/img/speaker-images/london/Eduardo.webp"
+			"img": "/eb-pics/ansha.png"
 		}
 		],
 		"agenda": null
@@ -126,17 +126,17 @@
 		{
 			"name": "Vishwavesu Aprameya",
 			"title": "Chairperson",
-			"img": "/img/speaker-images/paris/Annegret.webp"
+			"img": "/eb-pics/aprameya.png"
 		},
 		{
 			"name": "Sanjana Vijay",
 			"title": "Vice Chairperson",
-			"img": "/img/speaker-images/paris/Naresh.webp"
+			"img": "/eb-pics/sanjana-vijay.png"
 		},
 		{
 			"name": "Ruchit Shivani",
 			"title": "Director",
-			"img": "/img/speaker-images/london/Eduardo.webp"
+			"img": "/eb-pics/ruchit.png"
 		}
 		],
 		"agenda": null
@@ -148,17 +148,17 @@
 		{
 			"name": "Satrajit Sahani",
 			"title": "Chairperson",
-			"img": "/img/speaker-images/paris/Annegret.webp"
+			"img": "/eb-pics/satrajit.png"
 		},
 		{
 			"name": "Siddharth Bandam",
 			"title": "Vice Chairperson",
-			"img": "/img/speaker-images/paris/Naresh.webp"
+			"img": "/eb-pics/siddharth-bandam.png"
 		},
 		{
 			"name": "Nitya Tyagi",
 			"title": "Director",
-			"img": "/img/speaker-images/london/Eduardo.webp"
+			"img": "/eb-pics/nitya.png"
 		}
 		],
 		"agenda": null
