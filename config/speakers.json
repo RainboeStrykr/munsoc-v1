@@ -21,12 +21,12 @@
 		{
 			"name": "Shriyansh Mohanty",
 			"title": "Head of IP",
-			"img": "/eb-pics/Shriyansh Mohanty.jpg"
+			"img": "/eb-pics/shriyansh.png"
 		},
 		{
 			"name": "Subhashri Manigandan",
 			"title": "Editor-in-chief",
-			"img": "/eb-pics/Subhashri.jpg"
+			"img": "/eb-pics/subhashri.png"
 		}
 	],
 		"agenda": null
@@ -38,17 +38,17 @@
 		{
 			"name": "Aaron Mirza",
 			"title": "Moderator",
-			"img": "/img/speaker-images/paris/Annegret.webp"
+			"img": "/eb-pics/aaron-mirza.png"
 		},
 		{
 			"name": "Sai Eshwar",
 			"title": "Deputy Moderator",
-			"img": "/img/speaker-images/paris/Naresh.webp"
+			"img": "/eb-pics/sai-eshwar"
 		},
 		{
 			"name": "Chitranjan Mishra",
 			"title": "Director",
-			"img": "/img/speaker-images/london/Eduardo.webp"
+			"img": "/eb-pics/chitranjan.png"
 		}
 	],
 		"agenda": null
