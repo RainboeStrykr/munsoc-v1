@@ -111,14 +111,14 @@
 		"playlist":""
 	},
 	{
-		"name": "Online",
-		"country": " Edition",
-		"date": "29 October, 2025",
+		"name": "ECOSOC",
+		"country": "Economic and Social Council",
+		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"7th September, 2025",
-		"description": "Join us for the AsyncAPI Online Conference Edition as the community unites across the globe to share experiences, collaborate, and foster meaningful connections.",
-		"img": "/img/locations/testMic.webp",
-		"address": "AsyncAPI YouTube Channel",
-		"map": "https://www.youtube.com/@AsyncAPI",
+		"description": "Established in 1945, ECOSOC has been a pioneer in addressing the most pressing global challenges. Here, nations unite to propel economic growth, refine macroeconomic policies, and tackle the complexities of global finance.",
+		"img": "https://www.un.org/dppa/decolonization/sites/www.un.org.dppa.decolonization/files/ecosoc_opens_2017_operational_activities_segment_un_photo_e._debebe_28022017_cropped.jpg",
+		"address": "AGENDA: Socio-economic deprivation and persecution of refugees",
+		"map": "https://www.instagram.com/p/DAV7q8jScBk/",
 		"sponsors": {
 			"eventSponsors" : [{
 				"image":"/img/logos/asyncapi-logo--white.png",
@@ -126,7 +126,7 @@
 			}]
 			
 		},
-		"cfp": "https://conference.asyncapi.com/venue/online/register",
+		"cfp": false,
 		"isFree": true,
 		"ended": false,
 		"recordings": "",
@@ -134,14 +134,14 @@
 
 	},
 	{
-		"name": "Paris",
-		"country": "France",
-		"date": "9 - 11 December, 2025",
+		"name": "UNHRC",
+		"country": "United Nations Human Rights Council",
+		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"5 October 2025",
-		"description": "Join us at apidays Paris for the AsyncAPI Conference and explore event-driven architecture with the global open-source community",
-		"img": "/img/locations/paris.webp",
-		"address": "CNIT (Centre des Nouvelles Industries et Technologies), Paris 2 Place de la Défense, 92092 Puteaux",
-		"map": "https://maps.app.goo.gl/5te8WRM9Rb8B6vNd9",
+		"description": "In the pursuit of justice and human dignity, the UN Human Rights Council (UNHRC) stands as a steadfast advocate, ensuring that every voice is heard and every right is upheld. ",
+		"img": "https://gnhre.org/wp-content/uploads/2021/10/Aunhrc-1530966414257.jpeg",
+		"address": "AGENDA: Implementing the Universal Periodic Review recommendations with emphasis on cooperation and capacity building",
+		"map": "https://www.instagram.com/p/DAV4O7CS5Ss/",
 		"sponsors": {
 			"eventSponsors" : [{
 				"image":"/img/logos/apidays.png",
@@ -150,7 +150,7 @@
 			
 		},
 		"isFree": true,
-		"cfp": "https://apidays.typeform.com/to/ILJeAaV8?typeform-source=www.apidays.global#event_name=xxxxx",
+		"cfp": false,
 		"ended": false
 	}
 	
