@@ -7,8 +7,8 @@
 		"cfpdate":"24 February, 2025",
 		"description": "Journalism is the lens that sharpens shadows into stark truths. In the shifting landscape of global power, International Press serves as a sentinel of accountability, illuminating diplomatic complexities and ensuring governments answer to the people.",
 		"img": "https://images.squarespace-cdn.com/content/v1/610c60242d9ef15f1ce4bb7a/aea1ebab-61c3-4e47-b786-b342c87855ca/IPC.jpg",
-		"address": "SRM Institute of Science and Technology",
-		"map": "https://maps.app.goo.gl/9fG91E7Y24zmWSqP9",
+		"address": "AGENDA: Reporting and Photojournalism",
+		"map": "https://www.instagram.com/p/C_f0TVytDYt/",
 		"sponsors": {
 			"eventSponsors" : [{
 				"image":"/img/logos/apidays.png",
@@ -27,7 +27,7 @@
 		"country": "All India Political Parties Meet",
 		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"11 May 2025",
-		"description": "Welcome to the realm where the future of global governance takes shape: the All India Political Parties Meet (AIPPM). As a pivotal simulation of India's national political discourse, the AIPPM Committee provides a platform for representing and debating the diverse perspectives of political parties across the nation.",
+		"description": "As a pivotal simulation of India's national political discourse, the AIPPM Committee provides a platform for representing and debating the diverse perspectives of political parties across the nation.",
 		"img": "https://media.assettype.com/newindianexpress%2F2024-07%2F7e716013-0961-46dd-804c-f85ef9a658d1%2FLok_Sabha_PTI.jpg",
 		"address": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
 		"map": "https://www.instagram.com/p/DAYkGooSRR2/",
@@ -45,14 +45,14 @@
 		"playlist":""
 	},
 	{
-		"name": "Lagos",
-		"country": "Nigeria",
-		"date": "18 - 19 July, 2025",
+		"name": "TNSM",
+		"country": "Tamil Nadu Stakeholders' Meeting",
+		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"17 May 2025",
-		"description": "Naija, level up your event-driven architecture skills at AsyncAPI Conference Lagos",
-		"img": "/img/locations/lagos.webp",
-		"address": "The Zone Gbagada",
-		"map": "https://maps.app.goo.gl/Ws7QXSZg9L8euG8p8",
+		"description": "Introducing the Tamil Nadu Stakeholder's Meet (TNSM), a committee where visionary minds converge to discuss the most pressing issues impacting the state's growth and sustainability. ",
+		"img": "https://www.hindustantimes.com/ht-img/img/2025/03/17/1600x900/The-ongoing-Tamil-Nadu-Legislative-Assembly-Sessio_1742238664098.jpg",
+		"address": "AGENDA: Reviewing public health concerns in Tamil Nadu with reference to increasing alcoholism and substance abuse",
+		"map": "https://www.instagram.com/p/DAYdDVUyTfx/",
 		"sponsors": {
 			"eventSponsors" : [{
 					"image":"/img/logos/APICONF-LOGO-White.png",
