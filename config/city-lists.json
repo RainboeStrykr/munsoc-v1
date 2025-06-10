@@ -68,7 +68,7 @@
 	},	
 	{
 		"name": "UNSC",
-		"country": "UNited Nations Security Council",
+		"country": "United Nations Security Council",
 		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"13 July 2025",
 		"description": "The simulation of UNSC offers a unique chance to navigate the intricacies of global diplomacy. Delegates will address threats to peace, protect human rights, and seek resolutions to hostilities.",
@@ -89,14 +89,14 @@
 		"playlist":""
 	},
 	{
-		"name": "Bangalore",
-		"country": "India",
-		"date": "8 - 9 October, 2025",
+		"name": "UNGA",
+		"country": "United Nations General Assembly",
+		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"29 June 2025",
-		"description": "Hey Bangalore! Join the AsyncAPI Conference for deep dives into event-driven architecture and open-source.",
-		"img": "/img/locations/bangalore.webp",
-		"address": "The Chancery Pavilion, Bangalore",
-		"map": "https://maps.app.goo.gl/ANeaUDVVHKeEzLkv7",
+		"description": "As the core of the UN, the UNGA empowers the voice of every nation's voice to resonate within the halls of international influence.",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/0/05/UN_General_Assembly_hall.jpg",
+		"address": "AGENDA: Responsibility to Protext (2005 World Summit)",
+		"map": "https://www.instagram.com/p/DAV0zxGSGJk/",
 		"sponsors": {
 			"eventSponsors" : [{
 				"image":"/img/logos/apidays.png",
@@ -104,7 +104,7 @@
 			}]
 			
 		},
-		"cfp": "https://confengine.com/conferences/apidays-india-2025",
+		"cfp": false,
 		"isFree": true,
 		"ended": false,
 		"recordings":"",
