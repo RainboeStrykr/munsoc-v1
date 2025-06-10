@@ -55,13 +55,13 @@ export default function Home() {
       <div id="register" className="container mt-20">
         <div className="flex items-center flex-col justify-center">
           <div
-            id="speakers"
+            id="executiveboard"
             className="relative flex flex-col items-center justify-center pt-20"
           >
             <div className="text-center">
               <div className="flex items-center justify-center">
                 <div className="text-lg sm:text-sm text-white font-semi-bold border-b-2 border-blue-400 mb-1">
-                  Speakers
+                  Executive Board
                 </div>
               </div>
             </div>
@@ -69,7 +69,7 @@ export default function Home() {
               typeStyle="heading-md"
               className="text-gradient text-center lg:mt-10"
             >
-              Meet The Speakers
+              Meet The Executive Board
             </Heading>
             <div className="max-w-3xl sm:w-full text-center">
               <Paragraph
@@ -77,9 +77,7 @@ export default function Home() {
                 className="mt-6"
                 textColor="text-gray-200"
               >
-                Discover the inspiring voices shaping our event, each bringing
-                unique insights and expertise to the forefront of their
-                respective fields.
+                Introducing the Executive Board of SRM MUN 2025 — a team of seasoned debaters and passionate leaders dedicated to delivering an unforgettable experience. Get ready to engage with minds that inspire diplomacy, dialogue, and global change.
               </Paragraph>
             </div>
             <div className="lg:py-20 w-[1130px] lg:w-full">
