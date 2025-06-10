@@ -5,24 +5,19 @@ import ILink from "../illustration/link";
 function Footer() {
   const socials = [
     {
-      name: "Github",
-      href: "https://github.com/asyncapi",
-      imgUrl: "/img/Github.png",
-    },
-    {
       name: "Linkedin",
-      href: "https://www.linkedin.com/company/asyncapi/",
+      href: "https://www.linkedin.com/company/srm-mun-society/posts/?feedView=all",
       imgUrl: "/img/Linkedln.png",
     },
     {
       name: "Twitter(X)",
-      href: "https://x.com/asyncapispec",
+      href: "https://x.com/srm_munsoc",
       imgUrl: "/img/twitter_new.png",
     },
     {
-      name: "YouTube",
-      href: "https://www.youtube.com/@AsyncAPI",
-      imgUrl: "/img/youtube.png",
+      name: "Instagram",
+      href: "https://www.instagram.com/srm_munsoc/",
+      imgUrl: "/img/instagram.png",
     },
   ];
   return (
@@ -44,7 +39,7 @@ function Footer() {
         </div>
         <div></div>
         <div className="flex items-center justify-between sm:flex-col sm:items-center">
-         <div className="text-white">Made with ❤️ by AsyncAPI contributors. By the community for the community!</div>
+         <div className="text-white">Made with ❤️ by SRM MUN Society.</div>
          <div className="w-[0.9px] h-4 bg-white ml-4 sm:hidden" />
             <div className="ml-4 flex justify-between items-center gap-2 sm:mt-4">
               {socials.map((social, index) => {
