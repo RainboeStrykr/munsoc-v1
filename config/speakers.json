@@ -5,27 +5,27 @@
 		"lists": []
 	},
 	{
-		"city": "IP",
-		"location": "International Press",
+		"city": "Singapore",
+		"location": "Singapore, Singapore",
 		"lists": [
 		{
-			"name": "Abdul Raziq",
-			"title": "Chief Photojournalist",
+			"name": "Hugo Guerrero",
+			"title": "Head of Technical Marketing at Kong",
 			"img": "/img/speaker-images/london/Hugo Guerrero.webp"
 		},
 		{
-			"name": "Varshitha Govardhan",
-			"title": "Deputy Photojournalist",
+			"name": "Naresh Jain",
+			"title": "Founder & CEO at Specmatic",
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
-			"name": "Shriyansh Mohanty",
-			"title": "Head of Journalism",
+			"name": "Tamimi Ahmad",
+			"title": "Senior Developer Advocate at Solace",
 			"img": "/img/speaker-images/london/Tamimi.webp"
 		},
 		{
-			"name": "Subhashri Manigandan",
-			"title": "Editor-in-chief",
+			"name": "Ankit Kumar",
+			"title": "Head of Developer and Customer Success at Aklivity",
 			"img": "/img/speaker-images/london/Ankit.webp"
 		}
 	],
@@ -57,135 +57,91 @@
 		]
 	},
 	{
-		"city": "AIPPM",
-		"location": "All India Political Parties Meet",
+		"city": "Munich",
+		"location": "Munich, Germany",
 		"lists": [
 		{
-			"name": "Aaron Mirza",
-			"title": "Moderator",
+			"name": "Dr. Annegret Junker",
+			"title": "Chief Software Architect at codecentric AG",
 			"img": "/img/speaker-images/paris/Annegret.webp"
 		},
 		{
-			"name": "Sai Eshwar",
-			"title": "Deputy Moderator",
+			"name": "Naresh Jain",
+			"title": "Founder & CEO at Specmatic",
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
-			"name": "Chitaranjan Mishra",
-			"title": "Director",
+			"name": "Eduardo Maldonado Fonseca Silva",
+			"title": "Senior Platform Engineer at The LEGO Group",
 			"img": "/img/speaker-images/london/Eduardo.webp"
+		},
+		{
+			"name": "Andreas Habel",
+			"title": "Executive Professional for Enterprise Integration at Schwarz IT KG",
+			"img": "/img/speaker-images/munich/Andreas.webp"
+		},
+		{
+			"name": "Fabrizio Lazzaretti",
+			"title": "Managing Consultant at Wavestone",
+			"img": "/img/speaker-images/munich/Fabrizio.webp"
 		}
 	],
 		"agenda": null
 	},
 	{
-		"city": "TNSM",
-		"location": "Tamil Nadu Stakeholders' Meeting",
+		"city": "Lagos",
+		"location": "Lagos, Nigeria",
 		"lists": [
 		{
-			"name": "Ravi Vatsan",
-			"title": "Chairperson",
+			"name": "Azeez Elegbede",
+			"title": "Developer Advocate at AsyncAPI Initiative",
 			"img": "/img/speaker-images/lagos/Azeez.webp"
 		},
 		{
-			"name": "M Chellakumar",
-			"title": "Vice-Chairperson",
+			"name": "Thulisile Sibanda",
+			"title": "Senior Community Manager at AsyncAPI Initiative",
 			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
 		},
 		{
-			"name": "Sujith Kumar",
-			"title": "Director",
+			"name": "Prince Onyeanuna",
+			"title": "Technical Writer at Pi Squared",
 			"img": "/img/speaker-images/lagos/Prince.webp"
+		},
+		{
+			"name": "Aishat Muibudeen",
+			"title": "Lead Design Maintainer at AsyncAPI Initiative",
+			"img": "/img/speaker-images/online-conf/Maya.webp"
+		},
+		{
+			"name": "Ezinne Anne Emilia",
+			"title": "Documentation Mentee at AsyncAPI Initiative",
+			"img": "/img/speaker-images/lagos/Ezinne.webp"
 		}
 	],
 		"agenda": null
 	},
 	{
-		"city": "UNSC",
-		"location": "United Nations Security Council",
-		"lists": [
-		{
-			"name": "Jahnavi Dhir",
-			"title": "Director",
-			"img": "/img/speaker-images/lagos/Azeez.webp"
-		},
-		{
-			"name": "Fazil Razak",
-			"title": "Co-President",
-			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
-		},
-		{
-			"name": "Ayush R",
-			"title": "Co-President",
-			"img": "/img/speaker-images/lagos/Prince.webp"
-		}	
-	],
+		"city": "London",
+		"location": "London, UK",
+		"lists": [],
 		"agenda": null
 	},
 	{
-		"city": "UNGA",
-		"location": "United Nations General Assembly",
-		"lists": [
-		{
-			"name": "Aritra Karak",
-			"title": "Vice-Chairperson",
-			"img": "/img/speaker-images/lagos/Azeez.webp"
-		},
-		{
-			"name": "Niresh Swamy",
-			"title": "Chairperson",
-			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
-		},
-		{
-			"name": "Ansha Tripathi",
-			"title": "Director",
-			"img": "/img/speaker-images/lagos/Prince.webp"
-		}
-	],
+		"city": "Bangalore",
+		"location": "Bangalore, India",
+		"lists": [],
 		"agenda": null
 	},
 	{
-		"city": "ECOSOC",
-		"location": "Economic and Social Council",
-		"lists": [
-		{
-			"name": "M R Vishwavasu Aprameya",
-			"title": "Co-Chairperson",
-			"img": "/img/speaker-images/lagos/Azeez.webp"
-		},
-		{
-			"name": "Aravind Y Belur",
-			"title": "Co-Chairperson",
-			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
-		},
-		{
-			"name": "Ruchit Shivani",
-			"title": "Director",
-			"img": "/img/speaker-images/lagos/Prince.webp"
-		}
-	],
+		"city": "Online",
+		"location": "AsyncAPI YouTube Channel",
+		"lists": [],
 		"agenda": null
 	},
 	{
-		"city": "UNHRC",
-		"location": "United Nations Human Rights Council",
-		"lists": [
-		{
-			"name": "Satrajit Sahani",
-			"title": "Chairperson",
-			"img": "/img/speaker-images/lagos/Azeez.webp"
-		},
-		{
-			"name": "Siddharth Bandam",
-			"title": "Vice-Chairperson",
-			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
-		},
-		{
-			"name": "Nitya Tyagi",
-			"title": "Director",
-			"img": "/img/speaker-images/lagos/Prince.webp"
-		}
-],
+		"city": "Paris",
+		"location": "Paris, France",
+		"lists": [],
 		"agenda": null
 	}
 
