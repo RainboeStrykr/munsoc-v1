@@ -19,71 +19,36 @@
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
-			"name": "Tamimi Ahmad",
-			"title": "Senior Developer Advocate at Solace",
+			"name": "Shriyansh Mohanty",
+			"title": "Head of IP",
 			"img": "/img/speaker-images/london/Tamimi.webp"
 		},
 		{
-			"name": "Ankit Kumar",
-			"title": "Head of Developer and Customer Success at Aklivity",
+			"name": "Subhashri Manigandan",
+			"title": "Editor-in-chief",
 			"img": "/img/speaker-images/london/Ankit.webp"
 		}
 	],
-		"agenda": [
-			{
-                "time": "11:10 AM SGT - 11:35 AM SGT",
-                "session": "Multi-Protocol Async APIs: Designing a Unified Interface for EDA",
-                "speaker": 2,
-                "type": "Technical Speaker"
-            },
-            {
-                "time": "11:35 AM SGT - 12:00 PM SGT",
-                "session": "The Untapped Potentials of AsyncAPI Studio",
-				"speaker": 3,
-                "type": "Technical Speaker"
-            },
-            {
-                "time": "12:00 PM SGT - 12:25 PM SGT",
-                "session": "Enhancing Kafka Security and Control with Event Gateways",
-                "speaker": 1,
-                "type": "Technical Speaker"
-            },
-            {
-                "time": "12:25 PM SGT - 12:50 PM SGT",
-                "session": "AsyncAPI v3: Streamlining Event-Driven API Design",
-				"speaker": 4,
-                "type": "Technical Speaker"
-            }
-		]
+		"agenda": null
 	},
 	{
 		"city": "AIPPM",
 		"location": "All India Political Parties Meet",
 		"lists": [
 		{
-			"name": "Dr. Annegret Junker",
-			"title": "Chief Software Architect at codecentric AG",
+			"name": "Aaron Mirza",
+			"title": "Moderator",
 			"img": "/img/speaker-images/paris/Annegret.webp"
 		},
 		{
-			"name": "Naresh Jain",
-			"title": "Founder & CEO at Specmatic",
+			"name": "Sai Eshwar",
+			"title": "Deputy Moderator",
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
-			"name": "Eduardo Maldonado Fonseca Silva",
-			"title": "Senior Platform Engineer at The LEGO Group",
+			"name": "Chitranjan Mishra",
+			"title": "Director",
 			"img": "/img/speaker-images/london/Eduardo.webp"
-		},
-		{
-			"name": "Andreas Habel",
-			"title": "Executive Professional for Enterprise Integration at Schwarz IT KG",
-			"img": "/img/speaker-images/munich/Andreas.webp"
-		},
-		{
-			"name": "Fabrizio Lazzaretti",
-			"title": "Managing Consultant at Wavestone",
-			"img": "/img/speaker-images/munich/Fabrizio.webp"
 		}
 	],
 		"agenda": null
@@ -93,29 +58,19 @@
 		"location": "Tamil Nadu Stakeholders' Meeting",
 		"lists": [
 		{
-			"name": "Azeez Elegbede",
-			"title": "Developer Advocate at AsyncAPI Initiative",
+			"name": "Ravi Vatsan",
+			"title": "Chairperson",
 			"img": "/img/speaker-images/lagos/Azeez.webp"
 		},
 		{
-			"name": "Thulisile Sibanda",
-			"title": "Senior Community Manager at AsyncAPI Initiative",
+			"name": "M. Chellakumar",
+			"title": "Vice Chairperson",
 			"img": "/img/speaker-images/london/Thulisile Sibanda.webp"
 		},
 		{
-			"name": "Prince Onyeanuna",
-			"title": "Technical Writer at Pi Squared",
+			"name": "Sujith Kumar",
+			"title": "Director",
 			"img": "/img/speaker-images/lagos/Prince.webp"
-		},
-		{
-			"name": "Aishat Muibudeen",
-			"title": "Lead Design Maintainer at AsyncAPI Initiative",
-			"img": "/img/speaker-images/online-conf/Maya.webp"
-		},
-		{
-			"name": "Ezinne Anne Emilia",
-			"title": "Documentation Mentee at AsyncAPI Initiative",
-			"img": "/img/speaker-images/lagos/Ezinne.webp"
 		}
 	],
 		"agenda": null
@@ -126,17 +81,17 @@
 		"lists": [
 		{
 			"name": "Ayush R",
-			"title": "Chief Software Architect at codecentric AG",
+			"title": "Co-President",
 			"img": "/img/speaker-images/paris/Annegret.webp"
 		},
 		{
 			"name": "Fazil Razak",
-			"title": "Founder & CEO at Specmatic",
+			"title": "Co-President",
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
 			"name": "Jahnavi Dhir",
-			"title": "Senior Platform Engineer at The LEGO Group",
+			"title": "Director",
 			"img": "/img/speaker-images/london/Eduardo.webp"
 		}
 		],
@@ -145,19 +100,67 @@
 	{
 		"city": "UNGA",
 		"location": "United Nations General Assembly",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Niresh Swamy",
+			"title": "Chairperson",
+			"img": "/img/speaker-images/paris/Annegret.webp"
+		},
+		{
+			"name": "Aritra Kadak",
+			"title": "Vice Chairperson",
+			"img": "/img/speaker-images/paris/Naresh.webp"
+		},
+		{
+			"name": "Ansha Tripathi",
+			"title": "Director",
+			"img": "/img/speaker-images/london/Eduardo.webp"
+		}
+		],
 		"agenda": null
 	},
 	{
 		"city": "ECOSOC",
 		"location": "Economic and Social Council",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Vishwavesu Aprameya",
+			"title": "Chairperson",
+			"img": "/img/speaker-images/paris/Annegret.webp"
+		},
+		{
+			"name": "Sanjana Vijay",
+			"title": "Vice Chairperson",
+			"img": "/img/speaker-images/paris/Naresh.webp"
+		},
+		{
+			"name": "Ruchit Shivani",
+			"title": "Director",
+			"img": "/img/speaker-images/london/Eduardo.webp"
+		}
+		],
 		"agenda": null
 	},
 	{
 		"city": "UNHRC",
 		"location": "United Nations Human Rights Council",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Satrajit Sahani",
+			"title": "Chairperson",
+			"img": "/img/speaker-images/paris/Annegret.webp"
+		},
+		{
+			"name": "Siddharth Bandam",
+			"title": "Vice Chairperson",
+			"img": "/img/speaker-images/paris/Naresh.webp"
+		},
+		{
+			"name": "Nitya Tyagi",
+			"title": "Director",
+			"img": "/img/speaker-images/london/Eduardo.webp"
+		}
+		],
 		"agenda": null
 	}
 
