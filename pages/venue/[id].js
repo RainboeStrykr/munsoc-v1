@@ -44,7 +44,7 @@ function Venue({ city }) {
 		<div style={{
         		backgroundImage: city.name == 'Online' ? '' : `url(${city.img})`,
         		backgroundSize: 'cover',
-        		backgroundPosition: 'center 30%',
+        		backgroundPosition: 'center 50%',
 				backgroundRepeat: 'no-repeat'
 			}}
     		className={`w-full h-[500px] sm:h-[auto] ${city.name=='Online' ? 'bg-online' : ''}`}>				
