@@ -3,11 +3,11 @@
 	{
 		"name": "IP",
 		"country": "International Press Corps",
-		"date": "16 April, 2025",
+		"date": "25, 26 & 27 October 2024",
 		"cfpdate":"24 February, 2025",
-		"description": "Let’s talk event-driven architecture at the AsyncAPI Conference in Singapore! Join the open-source community and learn how to speak fluent API.",
+		"description": "Journalism is the lens that sharpens shadows into stark truths. In the shifting landscape of global power, International Press serves as a sentinel of accountability, illuminating diplomatic complexities and ensuring governments answer to the people.",
 		"img": "https://images.squarespace-cdn.com/content/v1/610c60242d9ef15f1ce4bb7a/aea1ebab-61c3-4e47-b786-b342c87855ca/IPC.jpg",
-		"address": "Marina Bay Sands, Singapore",
+		"address": "SRM Institute of Science and Technology",
 		"map": "https://maps.app.goo.gl/9fG91E7Y24zmWSqP9",
 		"sponsors": {
 			"eventSponsors" : [{

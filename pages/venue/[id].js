@@ -37,7 +37,7 @@ export async function getStaticPaths() {
 function Venue({ city }) {
 	
 	const eventEnded = isEventEnded(city.date);
-	const textColor = eventEnded ? "text-gray-400": "text-white";
+	const textColor = eventEnded ? "text-white": "text-white";
 
 	return (
 		<div data-test={`venue-${city.name}`}>
@@ -78,16 +78,7 @@ function Venue({ city }) {
 					</div>
 				</div>
 			</div>
-			<div
-				id='agenda'
-				className='border border-x-0 border-b-0 border-t-[#333] py-28 container flex flex-col justify-center items-center '
-			>
-				{city.cfp ? <div className='w-[1090px] lg:w-full'>
-				<Guidelines talkDeadLine={(city.name=='Online' && CFPdata.CallEndDate) || city.cfpdate} virtual={city.name=='Online'} name={city.name} cfp={city.cfp}/>
-				</div> : <div className='w-[1130px] lg:w-full'>
-					<Agenda city={city} />
-				</div>}
-			</div>
+			
 			<div id="recordings" className='flex justify-center'>
 				{city.ended ?  (city.playlist && 
 			<div className=' pt-10 mb-24 mx-44 lg:mx-7 flex justify-center flex-col items-center w-[90%] h-[550px] sm:h-72'>
