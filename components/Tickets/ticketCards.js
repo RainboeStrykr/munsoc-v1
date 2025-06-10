@@ -158,7 +158,9 @@ const Tickets = () => {
                       <h3 className="text-xl font-semibold text-gray-900">{ticket.type}</h3>
                       <p className="text-gray-500 mt-1">{ticket.description}</p>
                     </div>
-                    
+                    <div className="px-2 py-1 rounded-full text-sm font-medium text-gradient">
+                      {isEnded ? 'Ended' : ticket.status}
+                    </div>
                   </div>
 
                   <div className="mt-4">

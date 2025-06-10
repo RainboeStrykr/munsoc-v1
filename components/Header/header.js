@@ -28,17 +28,16 @@ function Header() {
                   level="h1"
                   typeStyle="heading"
                 >
-                  SRM MUN 2025
+                  Ignite. Inspire. Impact.
                 </Heading>
               </div>
               <div className="w-[624px] sm:w-full text-center">
                 <Paragraph className="mt-[16px]" textColor="text-gray-200">
-                  Join us for the AsyncAPI Conference, bringing the latest in
-                  AsyncAPI technology to locations worldwide!
+                  The world calls for your leadership, and the future is shaped by those who dare to act. Gain wisdom, forge lasting bonds, and leave an indelible mark. Rise, challenge the norm, and be the spark that kindles change.
                 </Paragraph>
               </div>
               <div className="mt-[54px] relative flex items-center justify-center">
-                <Link href="#tickets">
+                <Link href="https://docs.google.com/forms/d/e/1FAIpQLSehNBhz2nZYF2xR12RJGR005mHZUej9F4lnYfcAIqW921W75A/viewform">
                   <Button className="w-[250px]">Register Now</Button>
                 </Link>
               </div>
