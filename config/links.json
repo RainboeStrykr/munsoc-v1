@@ -43,15 +43,7 @@
 		"ref": "/#executiveboard"
 	},
 	{
-		"title": "Tickets",
-		"ref": "/#tickets"
-	},
-	{
 		"title": "Sponsors",
 		"ref": "/#sponsors"
-	},
-	{
-		"title":"Past Editions",
-		"ref":"/editions"
 	}
 ]
