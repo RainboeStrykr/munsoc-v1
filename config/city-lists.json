@@ -67,14 +67,14 @@
 		"playlist":""
 	},	
 	{
-		"name": "London",
-		"country": "UK",
-		"date": "22 - 24 September, 2025",
+		"name": "UNSC",
+		"country": "UNited Nations Security Council",
+		"date": "25, 26 & 27 October 2025",
 		"cfpdate":"13 July 2025",
-		"description": "API enthusiasts in London! Join the AsyncAPI Conference for deep dives into event-driven architecture and open-source collaboration.",
-		"img": "/img/locations/london.webp",
-		"address": "155 Bishopsgate, London EC2M 3YD",
-		"map": "https://maps.app.goo.gl/b2Vb5H2mM41F9nQA6",
+		"description": "The simulation of UNSC offers a unique chance to navigate the intricacies of global diplomacy. Delegates will address threats to peace, protect human rights, and seek resolutions to hostilities.",
+		"img": "https://static.theprint.in/wp-content/uploads/2020/04/UNSC.jpg",
+		"address": "AGENDA: Situation in Afghanistan, December 1979",
+		"map": "https://www.instagram.com/p/DAYZrvgycy-/",
 		"sponsors": {
 			"eventSponsors" : [{
 				"image":"/img/logos/apidays.png",
@@ -82,7 +82,7 @@
 			}]
 			
 		},
-		"cfp": "https://apidays.typeform.com/to/ILJeAaV8?typeform-source=www.apidays.global#event_name=xxxxx",
+		"cfp": false,
 		"isFree": true,
 		"ended": false,
 		"recordings":"",
