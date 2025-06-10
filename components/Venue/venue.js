@@ -50,9 +50,9 @@ const eventStatus = getEventStatus(city.date);
           <div className={textColor}>
             <div className='text-lg font-bold'>
               {city.name === 'Online' ? (
-                <span>{city.name} {city.country}</span>
+                <span>{city.country}</span>
               ) : (
-                <span>{city.country}, {city.name}</span>
+                <span>{city.country}</span>
               )}
             </div>
 
