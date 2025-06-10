@@ -9,13 +9,13 @@
 		"location": "International Press Corps",
 		"lists": [
 		{
-			"name": "Hugo Guerrero",
-			"title": "Head of Technical Marketing at Kong",
+			"name": "Abdul Raziq",
+			"title": "Chief Photojournalist",
 			"img": "/img/speaker-images/london/Hugo Guerrero.webp"
 		},
 		{
-			"name": "Naresh Jain",
-			"title": "Founder & CEO at Specmatic",
+			"name": "Varshithaa Govardhan",
+			"title": "Deputy Photojournalist",
 			"img": "/img/speaker-images/paris/Naresh.webp"
 		},
 		{
@@ -123,7 +123,23 @@
 	{
 		"city": "UNSC",
 		"location": "United Nations Security Council",
-		"lists": [],
+		"lists": [
+		{
+			"name": "Ayush R",
+			"title": "Chief Software Architect at codecentric AG",
+			"img": "/img/speaker-images/paris/Annegret.webp"
+		},
+		{
+			"name": "Fazil Razak",
+			"title": "Founder & CEO at Specmatic",
+			"img": "/img/speaker-images/paris/Naresh.webp"
+		},
+		{
+			"name": "Jahnavi Dhir",
+			"title": "Senior Platform Engineer at The LEGO Group",
+			"img": "/img/speaker-images/london/Eduardo.webp"
+		}
+		],
 		"agenda": null
 	},
 	{
