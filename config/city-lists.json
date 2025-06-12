@@ -11,8 +11,8 @@
 		"map": "https://www.instagram.com/p/C_f0TVytDYt/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/apidays.png",
-				"websiteUrl":"https://www.apidays.global/"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
@@ -33,8 +33,8 @@
 		"map": "https://www.instagram.com/p/DAYkGooSRR2/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/apidays.png",
-				"websiteUrl":"https://www.apidays.global/"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
@@ -55,9 +55,9 @@
 		"map": "https://www.instagram.com/p/DAYdDVUyTfx/",
 		"sponsors": {
 			"eventSponsors" : [{
-					"image":"/img/logos/APICONF-LOGO-White.png",
-					"websiteUrl":"https://apiconf.net/"
-				}]
+					"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
+			}]
 			
 		},
 		"cfp": false,
@@ -77,8 +77,8 @@
 		"map": "https://www.instagram.com/p/DAYZrvgycy-/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/apidays.png",
-				"websiteUrl":"https://www.apidays.global/"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
@@ -99,8 +99,8 @@
 		"map": "https://www.instagram.com/p/DAV0zxGSGJk/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/apidays.png",
-				"websiteUrl":"https://www.apidays.global/"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
@@ -121,8 +121,8 @@
 		"map": "https://www.instagram.com/p/DAV7q8jScBk/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/asyncapi-logo--white.png",
-				"websiteUrl":"https://asyncapi.com"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
@@ -144,8 +144,8 @@
 		"map": "https://www.instagram.com/p/DAV4O7CS5Ss/",
 		"sponsors": {
 			"eventSponsors" : [{
-				"image":"/img/logos/apidays.png",
-				"websiteUrl":"https://www.apidays.global/"
+				"image":"/munsoc-media/srmist-blue-logo.png",
+				"websiteUrl":"https://www.srmist.edu.in/"
 			}]
 			
 		},
