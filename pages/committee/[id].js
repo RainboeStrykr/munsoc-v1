@@ -6,7 +6,7 @@ import Heading from '../../components/Typography/heading';
 import Paragraph from '../../components/Typography/paragraph';
 import speakers from '../../config/speakers.json';
 import Sponsors from '../../components/Sponsors/sponsors';
-import { isEventEnded } from '../../components/committee/committee';
+import { isEventEnded } from '../../components/Committee/committee';
 import Agenda from '../../components/Agenda/agenda';
 import Guidelines from '../../components/Speaker/guideline';
 import CFPdata from "../../config/cfp-data.json"
