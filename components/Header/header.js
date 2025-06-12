@@ -5,7 +5,7 @@ import Paragraph from "../Typography/paragraph";
 import Button from "../Buttons/button";
 import ReactSlider from "../Slider/slider";
 import cities from "../../config/city-lists.json";
-import committee from "../committee/committee";
+import committee from "../Committee/committee";
 import Announcement from "../announcement";
 import Link from "next/link";
 
