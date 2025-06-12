@@ -29,9 +29,9 @@ body {
   background-size: 500% 100%;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-animation: GradientAnimation 50s ease infinite alternate;
-  -moz-animation: GradientAnimation 50s ease infinite alternate;
-  animation: GradientAnimation 50s ease infinite alternate;
+  -webkit-animation: GradientAnimation 40s ease infinite alternate;
+  -moz-animation: GradientAnimation 40s ease infinite alternate;
+  animation: GradientAnimation 40s ease infinite alternate;
 }
 
 @keyframes GradientAnimation {
