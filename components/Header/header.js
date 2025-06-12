@@ -5,7 +5,7 @@ import Paragraph from "../Typography/paragraph";
 import Button from "../Buttons/button";
 import ReactSlider from "../Slider/slider";
 import cities from "../../config/city-lists.json";
-import Venue from "../Venue/venue";
+import committee from "../committee/committee";
 import Announcement from "../announcement";
 import Link from "next/link";
 
@@ -48,7 +48,7 @@ function Header() {
       <div className="mt-24">
         <ReactSlider>
           {cities.map((city) => {
-            return <Venue key={city.name} city={city} />;
+            return <committee key={city.name} city={city} />;
           })}
         </ReactSlider>
       </div>

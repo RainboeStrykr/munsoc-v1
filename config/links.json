@@ -9,31 +9,31 @@
 		"subMenu": [
 			{
 				"title": "IP",
-				"ref": "/venue/IP"
+				"ref": "/committee/IP"
 			},
 			{
 				"title": "AIPPM",
-				"ref": "/venue/AIPPM"
+				"ref": "/committee/AIPPM"
 			},
 			{
 				"title": "TNSM",
-				"ref": "/venue/TNSM"
+				"ref": "/committee/TNSM"
 			},
 			{
 				"title": "UNSC",
-				"ref": "/venue/UNSC"
+				"ref": "/committee/UNSC"
 			},
 			{
 			"title": "UNGA",
-			"ref": "/venue/UNGA"
+			"ref": "/committee/UNGA"
 			},
 			{
 				"title": "ECOSOC", 
-				"ref": "/venue/ECOSOC"
+				"ref": "/committee/ECOSOC"
 			},
 			{
 				"title": "UNHRC",
-				"ref": "/venue/UNHRC"
+				"ref": "/committee/UNHRC"
 			}
 			
 		]

@@ -2,9 +2,9 @@ import cities from "../../config/city-lists.json"
 
 it("should render guideline if cfp is open, and agenda otherwise",()=>{
     cy.wrap(cities).each(city => {
-        cy.visit(`http://localhost:3000/venue/${city.name}`);
+        cy.visit(`http://localhost:3000/committee/${city.name}`);
         
-        cy.getTestData(`venue-${city.name}`).then(val=>{
+        cy.getTestData(`committee-${city.name}`).then(val=>{
             
             if(city.cfp && !city.ended){
                 cy.getTestData("guideline-com").should("be.visible");
@@ -26,7 +26,7 @@ it("should render guideline if cfp is open, and agenda otherwise",()=>{
 //     // const financialSponsor = cities[0].sponsors.financialSponsors;
 
 //     cy.wrap(cities).each((city) => {
-//         cy.visit(`http://localhost:3000/venue/${city.name}`);
+//         cy.visit(`http://localhost:3000/committee/${city.name}`);
         
 //         cy.getTestData("sponsor-section").should("exist");
     
@@ -47,7 +47,7 @@ it("should render guideline if cfp is open, and agenda otherwise",()=>{
 // });
 
 it("Form should work",()=>{
-    cy.visit('http://localhost:3000/venue/online/register');
+    cy.visit('http://localhost:3000/committee/online/register');
 
     cy.getTestData("cfp-form").should('be.visible');
 
@@ -59,7 +59,7 @@ it("Form should work",()=>{
 
     cy.getTestData("step-one-bio").type("testing the bio section");
 
-    cy.getTestData("step-one-social").type("http://localhost:3000/venue/online/register");
+    cy.getTestData("step-one-social").type("http://localhost:3000/committee/online/register");
 
     cy.getTestData("step-one-next").click();
 

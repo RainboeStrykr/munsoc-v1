@@ -20,13 +20,13 @@ export function isEventEnded(dates){
   return getEventStatus(dates) === "Ended";
 }
 
-function Venue({ city }) {
+function committee({ city }) {
 const eventEnded = isEventEnded(city.date);
 const textColor = eventEnded ? "text-white": "text-white";
 const eventStatus = getEventStatus(city.date);
 
   return (
-    <Link href={`/venue/${city.name}`}>
+    <Link href={`/committee/${city.name}`}>
       <div style={{
         background: `linear-gradient(to bottom, rgba(0,0,0,.3), rgba(0,0,0, .3)), url(${city.img})`, backgroundSize: "cover"}}
         className='relative w-[300px] h-[400px] sm:w-[250px] sm:h-[350px] card-bg rounded-2xl flex items-center justify-center p-4 cursor-pointer m-3 hover:scale-105 hover:shadow-xl transition-transform duration-300 ease-in-out'>
@@ -69,4 +69,4 @@ const eventStatus = getEventStatus(city.date);
   );
 }
 
-export default Venue;
+export default committee;

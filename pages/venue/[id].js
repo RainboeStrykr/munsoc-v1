@@ -6,7 +6,7 @@ import Heading from '../../components/Typography/heading';
 import Paragraph from '../../components/Typography/paragraph';
 import speakers from '../../config/speakers.json';
 import Sponsors from '../../components/Sponsors/sponsors';
-import { isEventEnded } from '../../components/Venue/venue';
+import { isEventEnded } from '../../components/committee/committee';
 import Agenda from '../../components/Agenda/agenda';
 import Guidelines from '../../components/Speaker/guideline';
 import CFPdata from "../../config/cfp-data.json"
@@ -34,13 +34,13 @@ export async function getStaticPaths() {
 	};
 }
 
-function Venue({ city }) {
+function committee({ city }) {
 	
 	const eventEnded = isEventEnded(city.date);
 	const textColor = eventEnded ? "text-white": "text-white";
 
 	return (
-		<div data-test={`venue-${city.name}`}>
+		<div data-test={`committee-${city.name}`}>
 		<div style={{
         		backgroundImage: city.name == 'Online' ? '' : `url(${city.img})`,
         		backgroundSize: 'cover',
@@ -71,7 +71,7 @@ function Venue({ city }) {
 							{city.ticket && <a href={city.ticket} target='_blank' rel='noreferrer'>
 							<Button className="px-8 m-2 w-[250px]">{city.isFree ? "Get Your Free Ticket" : "Register Now"}</Button>
 						</a>}
-						{(!eventEnded && city.cfp) && <a href={city.name === 'online'? "/venue/online/register" :city.cfp}target={city.name=='Online'?"":'_blank'} rel='noreferrer'>
+						{(!eventEnded && city.cfp) && <a href={city.name === 'online'? "/committee/online/register" :city.cfp}target={city.name=='Online'?"":'_blank'} rel='noreferrer'>
 							<Button className="px-8 m-2 w-[250px]">Apply to be a speaker</Button>
 						</a>}
 						</div>}
@@ -105,4 +105,4 @@ function Venue({ city }) {
 	);
 }
 
-export default Venue;
+export default committee;
