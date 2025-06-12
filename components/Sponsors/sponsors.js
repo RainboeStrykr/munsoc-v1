@@ -52,7 +52,7 @@ function Sponsors({ eventSponsors, financialSponsor }) {
                       <Image
                         src={sponsor.image}
                         alt={sponsor.image}
-                        height={210}
+                        height={300}
                         width={300}
                       />
                     </Link>
