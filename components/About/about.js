@@ -18,13 +18,10 @@ function About() {
 					SRM MUN Society
 					</Heading>
 					<Paragraph typeStyle='body-lg' className="mt-6" textColor='text-gray-200' >
-					The AsyncAPI Conference is an official event created by the AsyncAPI Initiative. This
-					conference is aimed primarily at the community to share and exchange experiences between
-					existing users and new members. We plan to integrate new members into the community and
-					expand their knowledge about the project.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam egestas cursus fringilla. Nulla facilisi. Nunc in metus et tellus dictum dictum. Proin et lectus nec purus porttitor ultricies. Morbi porttitor justo diam, vitae rhoncus libero hendrerit at. Duis molestie eros vel quam ultrices, quis efficitur diam pellentesque. Nunc faucibus orci quam, vitae laoreet nibh consectetur eget. Phasellus id viverra arcu.
 					</Paragraph>
 					<Paragraph  typeStyle='body-lg' className="mt-6" textColor='text-gray-200'>
-					We are currently looking for sponsors, for more details please read our Sponsorship Prospectus.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla.					
 					</Paragraph>
 					<div className='mt-10 flex gap-4 sm:flex-col lg:justify-center' data-test="prospectus-download">
 						<a
